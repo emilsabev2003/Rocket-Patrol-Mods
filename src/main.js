@@ -1,6 +1,6 @@
 //Name: Emil Sabev
 //Enhanced Rocket Patrol
-//Approx time: 
+//Approx time: 12 hours
 /*
 Mods Added:  
 
